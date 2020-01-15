@@ -1,6 +1,7 @@
 ## Welcome to Renyan's Pages
-
-
+ <div style="color:#FF0000, font-size:12px">
+      Different people use the same materials to produce different products.
+    </div>
 <section class="main-content">
       <div>
 <table border="0">
