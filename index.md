@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>Address: Guizhou University, China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%" />
+      <img src="/ptPage.jpg" width="100%" />
     </td>
   </tr>
 </table>
@@ -27,40 +27,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <hr />
 
-<h3 id="最新消息">最新消息</h3>
-<ol>
-  <li>消息1×××</li>
-</ol>
 
-<h3 id="研究方向">研究方向</h3>
+<h3 id="研究方向">Research Interests</h3>
 <ul>
-  <li>文本挖掘</li>
-  <li>知识图谱</li>
+  <li>Knowledge Representation and Reasoning</li>
+  <li>Answer Set Programming</li>
 </ul>
 
-<h3 id="荣誉奖励">荣誉奖励</h3>
+<h3 id="论文">Publications</h3>
 <ul>
-  <li>奖学金</li>
-  <li>荣誉称号</li>
-  <li>比赛获奖</li>
+  <li>****</li>
+  <li>*****</li>
 </ul>
 
-<h3 id="项目研究">项目研究</h3>
-<h4 id="公司学校研究所2013920176">公司/学校/研究所（2013.9~2017.6）</h4>
-<ul>
-  <li><strong>项目1</strong><br />
-项目描述</li>
-  <li><strong>项目2</strong><br />
-项目描述</li>
-</ul>
-
-<h4 id="公司学校研究所20179至今">公司/学校/研究所（2017.9~至今）</h4>
-<ul>
-  <li><strong>项目1</strong><br />
-项目描述</li>
-  <li><strong>项目2</strong><br />
-项目描述</li>
-</ul>
 
 
       <footer class="site-footer">
