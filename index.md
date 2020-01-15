@@ -1,13 +1,11 @@
 ## Welcome to Renyan's Pages
 
-You can use the [editor on GitHub](https://github.com/fengrenyan/fengrenyan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 <section class="main-content">
       <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="70%">
       <h1>Renyan Feng</h1>
       <p><b>PhD. candidate</b></p>
       <p><b>Department of computer science and technology, Guizhou University</b></p>
