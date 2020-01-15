@@ -23,7 +23,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <hr />
 
-<p>张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介</p>
+<p>Renyan Feng is currently a Ph.D. candidate at Guizhou University. She received B.S. degree from North China University of Technology in 2015.07  and M.S. degree from Guizhou University in 2018.07. Her main research interests include knowledge representation and reasoning, planning and answer set programming.</p>
 
 <hr />
 
