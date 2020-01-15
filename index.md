@@ -1,7 +1,6 @@
 ## Welcome to Renyan's Pages
- <div style="color:#FF0000, font-size:12px">
-      Different people use the same materials to produce different products.
-    </div>
+### Different people use the same materials to produce different products.
+    Renyan Feng is currently a Ph.D. candidate at Guizhou University. She received B.S. degree from North China University of Technology in 2015.07 and M.S. degree from Guizhou University in 2018.07. Her main research interests include knowledge representation and reasoning, planning and answer set programming.
 <section class="main-content">
       <div>
 <table border="0">
