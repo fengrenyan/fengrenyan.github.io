@@ -32,11 +32,7 @@
   <li>Answer Set Programming</li>
 </ul>
 
-<h3 id="论文">Publications</h3>
-<ul>
-  <li>****</li>
-  <li>*****</li>
-</ul>
+
 
 
 
